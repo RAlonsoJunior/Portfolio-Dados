@@ -1,4 +1,4 @@
-##📊 **Dashboard Financeiro - Power BI**
+# 📊 **Dashboard Financeiro - Power BI**
 
 
 Este projeto apresenta um Dashboard Financeiro Interativo desenvolvido no Power BI, com o objetivo de demonstrar minha capacidade em transformar dados brutos em análises visuais claras e acionáveis. A solução simula o controle gerencial de uma empresa, focando em análise de receitas, despesas, saldo e performance ao longo do tempo.
@@ -6,7 +6,7 @@ Este projeto apresenta um Dashboard Financeiro Interativo desenvolvido no Power 
 
 
 
-#🧠 **O que você encontrará aqui**
+## 🧠 **O que você encontrará aqui**
 
 - KPIs financeiros automatizados (Receita, Despesa, Margem, Variação Anual);
 
@@ -21,7 +21,7 @@ Este projeto apresenta um Dashboard Financeiro Interativo desenvolvido no Power 
 
 __________________________________________________________________________________________________
 
-#**Dasboard - Visão 1**
+## **Dasboard - Visão 1**
 
 **Componentes em destaque:**
 
@@ -42,7 +42,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________
 
-#**Dasboard - Visão 2**
+## **Dasboard - Visão 2**
 
 **Componentes em destaque:**
 
@@ -63,7 +63,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________
 
-💼 #**Objetivo do Projeto**
+💼 ## **Objetivo do Projeto**
 
 
 Este projeto foi criado com fins didáticos e profissionais, como parte do meu portfólio em Análise de Dados com Power BI. O objetivo é demonstrar:
@@ -76,7 +76,7 @@ Este projeto foi criado com fins didáticos e profissionais, como parte do meu p
 
 - Habilidade de gerar insights financeiros acionáveis.
 
-🛠️ #**Ferramentas Utilizadas**
+🛠️ ## **Ferramentas Utilizadas**
 - Power BI Desktop
 
 - DAX
@@ -85,6 +85,6 @@ Este projeto foi criado com fins didáticos e profissionais, como parte do meu p
 
 - Design de dashboards interativos e responsivos
 
-👨‍💻 #**Sobre Mim**
+👨‍💻 ## **Sobre Mim**
 
 Sou um profissional em transição para a área de Análise de Dados, com foco em Power BI, SQL, Python e visualização de dados. Busco constantemente transformar dados em decisões com impacto.
