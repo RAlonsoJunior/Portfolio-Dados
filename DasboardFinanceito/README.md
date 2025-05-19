@@ -1,5 +1,6 @@
 # 📊 **Dashboard Financeiro - Power BI**
 
+**Link Web (https://app.powerbi.com/links/XfCAu6yB5z?ctid=5693fa95-89a8-4641-a43c-14a1174077de&pbi_source=linkShare)**
 
 Este projeto apresenta um Dashboard Financeiro Interativo desenvolvido no Power BI, com o objetivo de demonstrar minha capacidade em transformar dados brutos em análises visuais claras e acionáveis. A solução simula o controle gerencial de uma empresa, focando em análise de receitas, despesas, saldo e performance ao longo do tempo.
 
