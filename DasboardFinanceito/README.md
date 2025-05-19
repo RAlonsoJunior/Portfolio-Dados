@@ -13,6 +13,8 @@ Tabelas dinâmicas de contas a pagar e a receber
 Visualizações intuitivas com filtros interativos (tipo de conta, fornecedor, cliente, datas)
 
 
+__________________________________________________________________________________________________
+
 Dasboard - Visão 1
 
 Componentes em destaque:
@@ -29,6 +31,8 @@ Layout limpo, focado na experiência do usuário
 
 ![image](https://github.com/user-attachments/assets/a9527744-0d91-4c11-a106-71e653e9bc10)
 
+
+__________________________________________________________________________________________________
 
 Dasboard - Visão 2
 
@@ -47,6 +51,8 @@ Filtros por tipo de conta, tipo de data, cliente, fornecedor e período
 
 ![image](https://github.com/user-attachments/assets/30f1eec0-da6a-48a1-834c-77cfe2ec9bf1)
 
+
+__________________________________________________________________________________________________
 
 💼 Objetivo do Projeto
 Este projeto foi criado com fins didáticos e profissionais, como parte do meu portfólio em Análise de Dados com Power BI. O objetivo é demonstrar:
